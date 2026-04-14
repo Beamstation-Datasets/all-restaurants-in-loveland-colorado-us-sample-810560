@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Detailed restaurant dataset for Loveland, Colorado. This city-level export includes every active restaurant listing filtered by the Restaurants category group, with review analytics and sentiment data. Refreshed weekly.",
+  "config_name": "All Restaurants in Loveland, Colorado, US",
+  "export_job_id": "576d736f-8de5-43de-995a-f9929a8a1a49",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 810560,
+  "location_name": "Loveland",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-loveland-colorado-us-sample-810560",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/810560/beamstation_810560_restaurants-us-co_SAMPLE_DIST.csv",
+  "sample_pct": 9.74,
+  "sample_records": 19,
+  "sample_sha256": "883bd420725a9ab1d70de0b1d0ffba0ef0dfc03a06547bcff351fd1ef3b30764",
+  "sample_size_bytes": 89608,
+  "total_records": 195,
+  "updated_at": "2026-03-31T13:25:16.090088+00:00"
+}
