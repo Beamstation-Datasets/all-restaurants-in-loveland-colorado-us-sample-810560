@@ -1,12 +1,12 @@
 {
-  "export_job_id": "aa98f646-ffcc-45ca-8803-eb65a2e5c5e2",
+  "export_job_id": "5994a4c7-74ef-421d-8777-215769406995",
   "id_short": 810560,
-  "published_at": "2026-04-18T07:05:27Z",
+  "published_at": "2026-04-21T19:50:52Z",
   "repo_name": "all-restaurants-in-loveland-colorado-us-sample-810560",
   "sample_asset_name": "beamstation_810560_restaurants-us-co_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/810560/beamstation_810560_restaurants-us-co_SAMPLE_DIST.csv",
-  "sample_records": 28,
-  "sample_sha256": "0d016eb3952241cac747f29a3a108b8420a42471e71af97640006aea55e49aa2",
-  "sample_size_bytes": 109101,
-  "total_records": 285
+  "sample_records": 22,
+  "sample_sha256": "d540c767ed6eb64e5d47c276cef62061e6ba02faabb85cb6d28d2c1c2c8896b2",
+  "sample_size_bytes": 89663,
+  "total_records": 220
 }
